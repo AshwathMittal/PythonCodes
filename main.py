@@ -187,15 +187,3 @@
 #     a = num_list[length // 2] +  num_list[len2]
 #     print(a/2)
 
-
-def nums(r, b):
-    factors = []
-    for i in range(1, r+1):
-        if r%i == 0:
-            factors.append(i)
-    if b in factors:
-        return b
-    else:
-        return -1
-print(nums(12, 3))
-

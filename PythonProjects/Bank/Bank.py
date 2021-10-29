@@ -1,15 +1,4 @@
 import sys
-import sqlite3
-con = sqlite3.connect("Bank_Data.db")
-
-c = con.cursor()
-
-c.execute("CREATE TABLE if not exists record (username text,password text, balance text)")
-
-c.execute("insert into record values ('test','test', 'test')")
-
-con.commit()
-con.close()
 
 log={
 }
@@ -28,7 +17,6 @@ def log_screen():
 def login():
     u = input("UserName: ")
     p = input("PassWord: ")
-
     if u in log:
         if p == log[u]:
             # print("Login Successfull")
