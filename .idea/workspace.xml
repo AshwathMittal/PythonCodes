@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c883dee2-bf5b-4f3c-a813-bb11dfbe86fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tkinterModule/userinput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinterModule/password.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinterModule/password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinterModule/userinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinterModule/userinput.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="208RSjTxhns7LSdh6Kr1XA5Z8YJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +49,7 @@
       <recent name="C:\Users\nalin\Desktop\Python Course\PythonProjects\TkinterCalculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.userinput">
+  <component name="RunManager" selected="Python.password">
     <configuration name="CalculatorGUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinterModule/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinterModule/password.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.password" />
         <item itemvalue="Python.userinput" />
         <item itemvalue="Python.CalculatorGUI" />
         <item itemvalue="Python.cal" />
         <item itemvalue="Python.Patter1" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
