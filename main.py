@@ -1,3 +1,7 @@
+'''
+Just Some Random Code here
+'''
+
 # x = 1
 # y = 2
 #
@@ -147,10 +151,6 @@
 #     c = c +1
 
 # print("%s %d"%("name", 7))
-
-
-
-
 
 # v = {}
 #
